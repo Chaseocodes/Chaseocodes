@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase O'Hara</h1>
 <h3 align="center">Software engineer from Baltimore</h3>
 
-- 🌱 I’m currently learning **Node.js,React,Javascript**
+- 🌱 I’m currently engaging with **Node.js,React,Javascript**
 
 - 💬 Ask me about **Javascript,CSS,Html**
 
