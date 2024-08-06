@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **stanleycohara@gmail.com**
 
-- 📫 My porfolio **https://stanleycohara.netlify.app/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chase0hara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chase0hara" height="30" width="40" /></a>
