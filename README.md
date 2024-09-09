@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chase O'Hara</h1>
 <h3 align="center">Software engineer from Baltimore</h3>
 
-- 🌱 I’m currently working on some projects using **Node.js,Express,Javascript and React**
+- 🌱 I’m currently working on some projects using **Python, Flask, Jinja2 and Javascript**
 
-- 💬 Ask me about **Javascript,CSS,Html**
+- 💬 Ask me about **Full stack Development**
 
 - 📫 How to reach me **stanleycohara@gmail.com**
 
